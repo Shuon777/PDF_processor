@@ -1,0 +1,4 @@
+2025-04-18 15:01:42,360 - INFO - Создана таблица processed_files
+2025-04-18 15:01:42,387 - INFO - Создана таблица processed_files_data
+2025-04-18 15:03:13,114 - ERROR - Ошибка загрузки файла: 500 Server Error: Internal Server Error for url: https://api.ilovepdf.com/v1/upload
+2025-04-18 15:03:13,115 - ERROR - Ошибка обработки: Не удалось загрузить файл на ilovepdf
